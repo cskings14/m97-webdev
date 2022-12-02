@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\css"
+		},
+		{
+			"path": "..\\..\\fonts"
+		},
+		{
+			"path": "..\\..\\js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
